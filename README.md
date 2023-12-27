@@ -7,5 +7,5 @@ Installation | Introduction | Keyboard Shortcuts | System Requirements | Project
 
 ***
 Got some value out of this? Want to support further versions?
-[Emacs_For_Writers](https://img.shields.io/badge/Emacs_For_Writers-keer_note-blue)
+![Emacs_For_Writers](https://img.shields.io/badge/Emacs_For_Writers-keer_note-blue)
 ***
