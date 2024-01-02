@@ -24,7 +24,7 @@ And most importantly, to get you started quickly and save you the countless hour
 this. This configuration is intended as a starting point on your journey. No system is ever finished and this puts
 you in the driver's seat.
 
-****
+***
 ## What is this?
 
 Whit this `.spacemacs` Emacs configuration you're looking at about 90% of my personal Emacs setup. The rest is
@@ -55,7 +55,7 @@ a say in work-flow. One really powerful way to work with remote editors is to li
 (from a cloud service) and yours adjacent to it and vice versa on the other end. The moment they save their file
 (with a brief delay) your "inbox" panel updates. A symbolic link to a shared cloud folder is one way to this. You
 can't get your editor to use GIT, not going to happen. Here's more on [working with a editor]
-(https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs**.
+(https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs).
 
 ***
 <div align="center">
